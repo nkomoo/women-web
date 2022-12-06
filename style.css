@@ -63,4 +63,15 @@ li {
   font-size: 12em;
 }
 
+@media only screen and (max-width: 682px) {
+  .col-md-a {
+    font-size: 8em;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .col-md-a {
+    font-size: 4em;
+  }
+}
 /* end of section */
