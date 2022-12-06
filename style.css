@@ -1,0 +1,66 @@
+@import url("https://fonts.cdnfonts.com/css/apercu-pro");
+
+body {
+  font-family: "Apercu Pro", sans-serif;
+}
+/* navigation bar */
+
+.nav {
+  display: block;
+  float: right;
+  padding-top: 1em;
+  padding-right: 5em;
+}
+
+a {
+  color: black !important;
+  text-decoration: none !important;
+  padding-right: 5em;
+  font-weight: 600;
+}
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  float: right;
+  display: none;
+}
+li {
+  list-style: none;
+}
+.fa {
+  transform: scale(1.5, 1);
+}
+
+@media only screen and (max-width: 682px) {
+  .menu {
+    display: none;
+  }
+  button {
+    display: block;
+  }
+  ul.nav {
+    padding: 0;
+    float: left;
+    display: inline-block;
+    background-color: black;
+    padding: 2em;
+    height: 20em;
+  }
+  a {
+    padding: 0;
+    color: white !important;
+  }
+  li:not(button) {
+    padding: 1em;
+  }
+}
+
+/* end of navigation bar */
+
+/* next section with women */
+.col-md-a {
+  font-size: 12em;
+}
+
+/* end of section */
