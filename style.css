@@ -62,6 +62,12 @@ li {
 .col-md-a {
   font-size: 12em;
 }
+.img-thumbnail {
+  height: 20em !important;
+  background-color: none !important;
+  border: none !important;
+  border-radius: none !important;
+}
 
 @media only screen and (max-width: 682px) {
   .col-md-a {
