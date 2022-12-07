@@ -46,6 +46,8 @@ li {
     background-color: black;
     padding: 2em;
     height: 20em;
+    width: 20em;
+    position: absolute;
   }
   a {
     padding: 0;
@@ -53,6 +55,7 @@ li {
   }
   li:not(button) {
     padding: 1em;
+    text-align: center;
   }
 }
 
@@ -67,6 +70,10 @@ li {
   background-color: none !important;
   border: none !important;
   border-radius: none !important;
+}
+img:hover {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
 }
 
 @media only screen and (max-width: 682px) {
