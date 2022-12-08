@@ -1,6 +1,7 @@
 @import url("https://fonts.cdnfonts.com/css/apercu-pro");
+@import url("https://fonts.cdnfonts.com/css/groupe");
 
-body {
+* {
   font-family: "Apercu Pro", sans-serif;
 }
 /* navigation bar */
@@ -64,6 +65,7 @@ li {
 /* next section with women */
 .col-md-a {
   font-size: 12em;
+  font-family: "GROUPE", sans-serif;
 }
 .img-thumbnail {
   height: 20em !important;
@@ -87,4 +89,59 @@ img:hover {
     font-size: 4em;
   }
 }
+/* end of section */
+
+/* 3 models */
+
+.row,
+h2 {
+  text-transform: uppercase !important;
+  font-size: 14px !important;
+}
+
+@media only screen and (max-width: 575px) {
+  .col-sm {
+    text-align-last: center;
+  }
+}
+
+/* end of section */
+
+/* footer */
+.footer-logo {
+  font-size: 2em;
+  font-family: "GROUPE", sans-serif;
+}
+
+/* end of footer */
+
+/* newsletter */
+.news-container {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 4em;
+  margin: 3em;
+}
+input[type="text"] {
+  background-color: #000000;
+  padding: 1em;
+  border: 1px solid #fff;
+  outline: none !important;
+  -webkit-appearance: none;
+  color: #fff;
+}
+input[type="submit"] {
+  position: absolute;
+  background-color: #000000;
+  border: 0;
+  color: #fff;
+  padding: 1em;
+}
+
+input[type="submit"] {
+  width: 4.100000000000001em;
+}
+@media only screen and (max-width: 772px) {
+}
+
 /* end of section */
