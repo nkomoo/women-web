@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Home-&amp;-Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="bevel">
+        <g id="Home" transform="translate(-1322.000000, -3234.000000)" stroke="#000000">
+            <g id="Group-8" transform="translate(1215.000000, 3235.000000)">
+                <g id="Group-2" transform="translate(108.000000, 0.000000)">
+                    <path d="M8.19290208,25.0076746 L8.19290208,9.45775776 C8.19290208,7.42717536 9.83899488,5.78108256 11.8695773,5.78108256 L15.5373821,5.78108256" id="Stroke-13"></path>
+                    <line x1="4.0738896" y1="15.7672979" x2="15.058824" y2="15.7672979" id="Stroke-15"></line>
+                    <path d="M26.4235488,13.2117216 C26.4235488,20.5084704 20.5084704,26.4235488 13.2118272,26.4235488 C5.915184,26.4235488 -1.1688428e-12,20.5084704 -1.1688428e-12,13.2117216 C-1.1688428e-12,5.9150784 5.915184,1.84741111e-13 13.2118272,1.84741111e-13 C20.5084704,1.84741111e-13 26.4235488,5.9150784 26.4235488,13.2117216 Z" id="Stroke-17"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

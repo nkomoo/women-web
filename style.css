@@ -145,3 +145,15 @@ input[type="submit"] {
 }
 
 /* end of section */
+
+/* marquee */
+.text-marquee {
+  font-family: "GROUPE", sans-serif;
+  /* padding-top: 4em; */
+  margin-top: 1em;
+  border-top: 5px solid #000000;
+  border-bottom: 5px solid #000000;
+}
+marquee.text-marquee {
+  font-size: 60px;
+}
